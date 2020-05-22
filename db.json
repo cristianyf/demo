@@ -1,155 +1,29 @@
 {
-"publicaciones" : [
-{
-"id" : 1 ,
-"title" : "hola"
-}
-],
-"perfil" : {
-"nombre" : "tipicode"
-},
-"Rutas" : [
-{
-"alpha2Code" : "AF" ,
-"alpha3Code" : "AFG" ,
-"altSpellings" : [
-"AF" ,
-"Afġānistān"
-],
-"capital" : "Kabul" ,
-"nombre" : "Afganistán" ,
-"cioc" : "AFG"
-},
-{
-"alpha2Code" : "ZW" ,
-"alpha3Code" : "ZWE" ,
-"altSpellings" : [
-"ZW" ,
-"República de Zimbabwe"
-],
-"área" : 390757 ,
-"fronteras" : [
-"BWA" ,
-"MOZ" ,
-"ZAF" ,
-"ZMB"
-],
-"callCodes" : [
-"263"
-],
-"capital" : "Harare" ,
-"monedas" : [
-{
-"código" : "BWP" ,
-"name" : "Botswana pula" ,
-"símbolo" : "P"
-},
-{
-"código" : "GBP" ,
-"nombre" : "libra esterlina" ,
-"símbolo" : "£"
-},
-{
-"código" : "CNY" ,
-"nombre" : "yuan chino" ,
-"símbolo" : "¥"
-},
-{
-"código" : "EUR" ,
-"nombre" : "Euro" ,
-"símbolo" : "€"
-},
-{
-"código" : "INR" ,
-"nombre" : "rupia india" ,
-"símbolo" : "₹"
-},
-{
-"código" : "JPY" ,
-"nombre" : "yen japonés" ,
-"símbolo" : "¥"
-},
-{
-"código" : "ZAR" ,
-"nombre" : "rand sudafricano" ,
-"símbolo" : "Rs"
-},
-{
-"código" : "USD" ,
-"nombre" : "dólar de los Estados Unidos" ,
-"símbolo" : "$"
-},
-{
-"código" : "(ninguno)" ,
-"nombre" : nulo ,
-"símbolo" : nulo
-}
-],
-"demonym" : "Zimbabwean" ,
-"flagPNG" : "https://raw.githubusercontent.com/DevTides/countries/master/zwe.png" ,
-"gini" : nulo ,
-"idiomas" : [
-{
-"iso639_1" : "en" ,
-"iso639_2" : "eng" ,
-"nombre" : "inglés" ,
-"nativeName" : "inglés"
-},
-{
-"iso639_1" : "sn" ,
-"iso639_2" : "sna" ,
-"nombre" : "Shona" ,
-"nativeName" : "chiShona"
-},
-{
-"iso639_1" : "nd" ,
-"iso639_2" : "nde" ,
-"name" : "Northern Ndebele" ,
-"nativeName" : "isiNdebele"
-}
-],
-"latlng" : [
--20 ,
-30
-],
-"nombre" : "Zimbabwe" ,
-"nativeName" : "Zimbabwe" ,
-"numericCode" : "716" ,
-"población" : 14240168 ,
-"región" : "África" ,
-"regionalBlocs" : [
-{
-"acrónimo" : "AU" ,
-"nombre" : "Unión Africana" ,
-"otherNames" : [
-"الاتحاد الأفريقي" ,
-"Unión africana" ,
-"União Africana" ,
-"Unión Africana" ,
-"Umoja wa Afrika"
-]
-}
-],
-"subregión" : "África oriental" ,
-"zonas horarias" : [
-"UTC + 02: 00"
-],
-"topLevelDomain" : [
-".zw"
-],
-"traducciones" : {
-"br" : "Zimbabwe" ,
-"de" : "Simbabwe" ,
-"es" : "Zimbabue" ,
-"fa" : "زیمباوه" ,
-"fr" : "Zimbabwe" ,
-"hr" : "Zimbabve" ,
-"it" : "Zimbabwe" ,
-"ja" : "ジ ン バ ブ エ" ,
-"nl" : "Zimbabwe" ,
-"pt" : "Zimbabué"
-},
-"cioc" : "ZIM"
-}
-]
+    "posts": [
+        {
+            "id": 1,
+            "title": "hello"
+        }
+    ],
+    "profile": {
+        "name": "typicode"
+    },
+    "Rutas": [
+        {
+            "alpha3Code": "AFG",
+            "altSpellings": [
+                "Afġānistān"
+            ],
+            "capital": "Kabul",
+            "name": "Afghanistan"
+        },
+        {
+            "alpha3Code": "AFG",
+            "altSpellings": [
+                "Afġānistān"
+            ],
+            "capital": "Kabul",
+            "name": "Afghanistan"
+        }
+    ]
 }
