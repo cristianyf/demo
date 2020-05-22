@@ -1,231 +1,155 @@
-
 {
-"posts": [
+"publicaciones" : [
 {
-"id": 1,
-"title": "hello"
+"id" : 1 ,
+"title" : "hola"
 }
 ],
-"profile": {
-"name": "typicode"
+"perfil" : {
+"nombre" : "tipicode"
 },
-"Rutas": [
+"Rutas" : [
 {
-"alpha2Code": "AF",
-"alpha3Code": "AFG",
-"altSpellings": [
-"AF",
+"alpha2Code" : "AF" ,
+"alpha3Code" : "AFG" ,
+"altSpellings" : [
+"AF" ,
 "Afġānistān"
 ],
-"area": 652230,
-"borders": [
-"IRN",
-"PAK",
-"TKM",
-"UZB",
-"TJK",
-"CHN"
-],
-"callingCodes": [
-"93"
-],
-"capital": "Kabul",
-"currencies": [
-{
-"code": "AFN",
-"name": "Afghan afghani",
-"symbol": "؋"
-}
-],
-"demonym": "Afghan",
-"flagPNG": "https://raw.githubusercontent.com/DevTides/countries/master/afg.png",
-"gini": 27.8,
-"languages": [
-{
-"iso639_1": "ps",
-"iso639_2": "pus",
-"name": "Pashto",
-"nativeName": "پښتو"
+"capital" : "Kabul" ,
+"nombre" : "Afganistán" ,
+"cioc" : "AFG"
 },
 {
-"iso639_1": "uz",
-"iso639_2": "uzb",
-"name": "Uzbek",
-"nativeName": "Oʻzbek"
-},
-{
-"iso639_1": "tk",
-"iso639_2": "tuk",
-"name": "Turkmen",
-"nativeName": "Türkmen"
-}
+"alpha2Code" : "ZW" ,
+"alpha3Code" : "ZWE" ,
+"altSpellings" : [
+"ZW" ,
+"República de Zimbabwe"
 ],
-"latlng": [
-33,
-65
-],
-"name": "Afghanistan",
-"nativeName": "افغانستان",
-"numericCode": "004",
-"population": 27657145,
-"region": "Asia",
-"regionalBlocs": [
-{
-"acronym": "SAARC",
-"name": "South Asian Association for Regional Cooperation"
-}
-],
-"subregion": "Southern Asia",
-"timezones": [
-"UTC+04:30"
-],
-"topLevelDomain": [
-".af"
-],
-"translations": {
-"br": "Afeganistão",
-"de": "Afghanistan",
-"es": "Afganistán",
-"fa": "افغانستان",
-"fr": "Afghanistan",
-"hr": "Afganistan",
-"it": "Afghanistan",
-"ja": "アフガニスタン",
-"nl": "Afghanistan",
-"pt": "Afeganistão"
-},
-"cioc": "AFG"
-},
-{
-"alpha2Code": "ZW",
-"alpha3Code": "ZWE",
-"altSpellings": [
-"ZW",
-"Republic of Zimbabwe"
-],
-"area": 390757,
-"borders": [
-"BWA",
-"MOZ",
-"ZAF",
+"área" : 390757 ,
+"fronteras" : [
+"BWA" ,
+"MOZ" ,
+"ZAF" ,
 "ZMB"
 ],
-"callingCodes": [
+"callCodes" : [
 "263"
 ],
-"capital": "Harare",
-"currencies": [
+"capital" : "Harare" ,
+"monedas" : [
 {
-"code": "BWP",
-"name": "Botswana pula",
-"symbol": "P"
+"código" : "BWP" ,
+"name" : "Botswana pula" ,
+"símbolo" : "P"
 },
 {
-"code": "GBP",
-"name": "British pound",
-"symbol": "£"
+"código" : "GBP" ,
+"nombre" : "libra esterlina" ,
+"símbolo" : "£"
 },
 {
-"code": "CNY",
-"name": "Chinese yuan",
-"symbol": "¥"
+"código" : "CNY" ,
+"nombre" : "yuan chino" ,
+"símbolo" : "¥"
 },
 {
-"code": "EUR",
-"name": "Euro",
-"symbol": "€"
+"código" : "EUR" ,
+"nombre" : "Euro" ,
+"símbolo" : "€"
 },
 {
-"code": "INR",
-"name": "Indian rupee",
-"symbol": "₹"
+"código" : "INR" ,
+"nombre" : "rupia india" ,
+"símbolo" : "₹"
 },
 {
-"code": "JPY",
-"name": "Japanese yen",
-"symbol": "¥"
+"código" : "JPY" ,
+"nombre" : "yen japonés" ,
+"símbolo" : "¥"
 },
 {
-"code": "ZAR",
-"name": "South African rand",
-"symbol": "Rs"
+"código" : "ZAR" ,
+"nombre" : "rand sudafricano" ,
+"símbolo" : "Rs"
 },
 {
-"code": "USD",
-"name": "United States dollar",
-"symbol": "$"
+"código" : "USD" ,
+"nombre" : "dólar de los Estados Unidos" ,
+"símbolo" : "$"
 },
 {
-"code": "(none)",
-"name": null,
-"symbol": null
+"código" : "(ninguno)" ,
+"nombre" : nulo ,
+"símbolo" : nulo
 }
 ],
-"demonym": "Zimbabwean",
-"flagPNG": "https://raw.githubusercontent.com/DevTides/countries/master/zwe.png",
-"gini": null,
-"languages": [
+"demonym" : "Zimbabwean" ,
+"flagPNG" : "https://raw.githubusercontent.com/DevTides/countries/master/zwe.png" ,
+"gini" : nulo ,
+"idiomas" : [
 {
-"iso639_1": "en",
-"iso639_2": "eng",
-"name": "English",
-"nativeName": "English"
+"iso639_1" : "en" ,
+"iso639_2" : "eng" ,
+"nombre" : "inglés" ,
+"nativeName" : "inglés"
 },
 {
-"iso639_1": "sn",
-"iso639_2": "sna",
-"name": "Shona",
-"nativeName": "chiShona"
+"iso639_1" : "sn" ,
+"iso639_2" : "sna" ,
+"nombre" : "Shona" ,
+"nativeName" : "chiShona"
 },
 {
-"iso639_1": "nd",
-"iso639_2": "nde",
-"name": "Northern Ndebele",
-"nativeName": "isiNdebele"
+"iso639_1" : "nd" ,
+"iso639_2" : "nde" ,
+"name" : "Northern Ndebele" ,
+"nativeName" : "isiNdebele"
 }
 ],
-"latlng": [
--20,
+"latlng" : [
+-20 ,
 30
 ],
-"name": "Zimbabwe",
-"nativeName": "Zimbabwe",
-"numericCode": "716",
-"population": 14240168,
-"region": "Africa",
-"regionalBlocs": [
+"nombre" : "Zimbabwe" ,
+"nativeName" : "Zimbabwe" ,
+"numericCode" : "716" ,
+"población" : 14240168 ,
+"región" : "África" ,
+"regionalBlocs" : [
 {
-"acronym": "AU",
-"name": "African Union",
-"otherNames": [
-"الاتحاد الأفريقي",
-"Union africaine",
-"União Africana",
-"Unión Africana",
+"acrónimo" : "AU" ,
+"nombre" : "Unión Africana" ,
+"otherNames" : [
+"الاتحاد الأفريقي" ,
+"Unión africana" ,
+"União Africana" ,
+"Unión Africana" ,
 "Umoja wa Afrika"
 ]
 }
 ],
-"subregion": "Eastern Africa",
-"timezones": [
-"UTC+02:00"
+"subregión" : "África oriental" ,
+"zonas horarias" : [
+"UTC + 02: 00"
 ],
-"topLevelDomain": [
+"topLevelDomain" : [
 ".zw"
 ],
-"translations": {
-"br": "Zimbabwe",
-"de": "Simbabwe",
-"es": "Zimbabue",
-"fa": "زیمباوه",
-"fr": "Zimbabwe",
-"hr": "Zimbabve",
-"it": "Zimbabwe",
-"ja": "ジンバブエ",
-"nl": "Zimbabwe",
-"pt": "Zimbabué"
+"traducciones" : {
+"br" : "Zimbabwe" ,
+"de" : "Simbabwe" ,
+"es" : "Zimbabue" ,
+"fa" : "زیمباوه" ,
+"fr" : "Zimbabwe" ,
+"hr" : "Zimbabve" ,
+"it" : "Zimbabwe" ,
+"ja" : "ジ ン バ ブ エ" ,
+"nl" : "Zimbabwe" ,
+"pt" : "Zimbabué"
 },
-"cioc": "ZIM"
+"cioc" : "ZIM"
 }
 ]
 }
