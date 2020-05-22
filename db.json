@@ -1,29 +1,23 @@
 {
-    "posts": [
-        {
-            "id": 1,
-            "title": "hello"
-        }
-    ],
-    "profile": {
-        "name": "typicode"
-    },
-    "Rutas": [
-        {
-            "alpha3Code": "AFG",
-            "altSpellings": [
-                "Afġānistān"
-            ],
-            "capital": "Kabul",
-            "name": "Afghanistan"
-        },
-        {
-            "alpha3Code": "AFG",
-            "altSpellings": [
-                "Afġānistān"
-            ],
-            "capital": "Kabul",
-            "name": "Afghanistan"
-        }
-    ]
+"publicaciones" : [
+{
+"id" : 1 ,
+"title" : "hola"
+}
+],
+"perfil" : {
+"nombre" : "tipicode"
+},
+"Rutas" : [
+{
+"alpha3Code" : "AFG" ,
+"capital" : "Kabul" ,
+"nombre" : "Afganistán"
+},
+{
+"alpha3Code" : "AFG" ,
+"capital" : "Kabul" ,
+"nombre" : "Afganistán"
+}
+]
 }
