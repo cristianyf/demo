@@ -10,44 +10,44 @@
 },
 "Rutas": [
 {
-"ruta": " Apto ",
-"latitud": " 4.419899 ",
-"longitud": " -75.177786 "
+"ruta": "Apto",
+"latitud": "4.419899",
+"longitud": "-75.177786"
 },
 {
-"ruta": " Fortezza1 ",
-"latitud": " 4.419231 ",
-"longitud": " -75.175010 "
+"ruta": "Fortezza1",
+"latitud": "4.419231",
+"longitud": "-75.175010"
 },
 {
-"ruta": " Tránsito ",
-"latitud": " 4.416666 ",
-"longitud": " -75.175506 "
+"ruta": "Tránsito",
+"latitud": "4.416666",
+"longitud": "-75.175506"
 },
 {
-"ruta": " Salento ",
-"latitud": " 4.421539 ",
-"longitud": " -75.177409 "
+"ruta": "Salento",
+"latitud": "4.421539",
+"longitud": "-75.177409"
 },
 {
-"ruta": " Glorieta ",
-"latitud": " 4.421539 ",
-"longitud": " -75.177409 "
+"ruta": "Glorieta",
+"latitud": "4.421539",
+"longitud": "-75.177409"
 },
 {
-"ruta": " Mercacentro ",
-"latitud": " 4.4140754 ",
-"longitud": " -75.1775613 "
+"ruta": "Mercacentro",
+"latitud": "4.4140754",
+"longitud": "-75.1775613"
 },
   {
-"ruta": " Tomaticos ",
-"latitud": " 4.4140754 ",
-"longitud": " -75.1775613 "
+"ruta": "Tomaticos",
+"latitud": "4.4140754",
+"longitud": "-75.1775613"
 },
 {
-"ruta": " Medicadiz ",
-"latitud": " 4.424906 ",
-"longitud": " -75.176307 "
+"ruta": "Medicadiz",
+"latitud": "4.424906",
+"longitud": "-75.176307"
 }
 ]
 }
