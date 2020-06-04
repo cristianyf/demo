@@ -20,7 +20,9 @@
 "nameCompany": "La fama",
 "ruta": "calle 80",
 "latitud": "4.419899",
-"longitud": "-75.177786"
+"status": "0",
+  "longitud": "-75.177786"
+
 },
 {
 "activityEconomic": "Transporte",
