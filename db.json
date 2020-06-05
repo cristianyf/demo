@@ -88,11 +88,11 @@
 "razonSocial": "Domicilios",
 "phone": "312768458",
 "nameCampus": "Polo",
-"nameCompany": "Rappidito",
+"nameCompany": "Rappidi,
 "ruta": "Mercacentro",
-"latitud": "4.4140754",
+"latitud": "4.421111",
   "status": "2",
-"longitud": "-75.1775613"
+"longitud": "-75.177921"
 },
 {
 "activityEconomic": "Transporte",
@@ -102,11 +102,11 @@
 "razonSocial": "Movilizar",
 "phone": "3209846578",
 "nameCampus": "La granja",
-"nameCompany": "Transport", 
-"ruta": "Tomaticos",
-"latitud": "4.4140754",
+"nameCompany": "Tunel", 
+"ruta": "MyM",
+"latitud": "4.421036",
   "status": "3",
-"longitud": "-75.1775613"
+"longitud": "-75.174509"
 },
   {
 "activityEconomic": "Transporte",
@@ -116,11 +116,11 @@
 "razonSocial": "Movilizar",
 "phone": "3209846578",
 "nameCampus": "La granja",
-"nameCompany": "Transport", 
-"ruta": "Tomaticos",
-"latitud": "4.4140754",
+"nameCompany": "Justo", 
+"ruta": "justo y bueno",
+"latitud": "4.422469",
   "status": "3",
-"longitud": "-75.1775613"
+"longitud": "-75.174380"
 },
   {
 "activityEconomic": "Transporte",
@@ -130,11 +130,11 @@
 "razonSocial": "Movilizar",
 "phone": "3209846578",
 "nameCampus": "La granja",
-"nameCompany": "Transport", 
-"ruta": "Tomaticos",
-"latitud": "4.4140754",
+"nameCompany": "Araa", 
+"ruta": "Ara",
+"latitud": "4.424162",
   "status": "3",
-"longitud": "-75.1775613"
+"longitud": "-75.173948"
 },
 {
 "activityEconomic": "Comercio",
@@ -143,12 +143,12 @@
 "typeIdentification": "NIt",
 "razonSocial": "Carnes",
 "phone": "3124758574",
-"nameCampus": "Hipodromo",
-"nameCompany": "La fama",
+"nameCampus": "Exito",
+"nameCompany": "El exito",
 "ruta": "Medicadiz",
-"latitud": "4.424906",
+"latitud": "4.423647",
   "status": "3",
-"longitud": "-75.176307"
+"longitud": "-75.179856"
 }
 ]
 }
