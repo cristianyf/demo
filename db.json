@@ -21,8 +21,7 @@
 "ruta": "calle 80",
 "latitud": "4.419899",
 "status": "0",
-  "longitud": "-75.177786"
-
+ "longitud": "-75.177786"
 },
 {
 "activityEconomic": "Transporte",
@@ -35,7 +34,7 @@
 "nameCompany": "Transport",  
 "ruta": "cra 20 n 80",
 "latitud": "4.419231",
-  "status": "2",
+ "status": "2",
 "longitud": "-75.175010"
 },
 {
@@ -49,7 +48,7 @@
 "nameCompany": "Rappidito",
 "ruta": "Tránsito",
 "latitud": "4.416666",
-  "status": "1",
+"status": "1",
 "longitud": "-75.175506"
 },
 {
@@ -63,7 +62,7 @@
 "nameCompany": "Calzatodo",  
 "ruta": "Salento",
 "latitud": "4.421539",
-  "status": "1",
+"status": "1",
 "longitud": "-75.177409"
 },
 {
@@ -77,7 +76,7 @@
 "nameCompany": "OLala",  
 "ruta": "Glorieta",
 "latitud": "4.421539",
-  "status": "2",
+"status": "2",
 "longitud": "-75.177409"
 },
 {
@@ -88,10 +87,10 @@
 "razonSocial": "Domicilios",
 "phone": "312768458",
 "nameCampus": "Polo",
-"nameCompany": "Rappidi,
+"nameCompany": "Rappidi",
 "ruta": "Mercacentro",
 "latitud": "4.421111",
-  "status": "2",
+ "status": "2",
 "longitud": "-75.177921"
 },
 {
@@ -105,7 +104,7 @@
 "nameCompany": "Tunel", 
 "ruta": "MyM",
 "latitud": "4.421036",
-  "status": "3",
+"status": "3",
 "longitud": "-75.174509"
 },
   {
@@ -119,7 +118,7 @@
 "nameCompany": "Justo", 
 "ruta": "justo y bueno",
 "latitud": "4.422469",
-  "status": "3",
+"status": "3",
 "longitud": "-75.174380"
 },
   {
@@ -133,7 +132,7 @@
 "nameCompany": "Araa", 
 "ruta": "Ara",
 "latitud": "4.424162",
-  "status": "3",
+"status": "3",
 "longitud": "-75.173948"
 },
 {
@@ -147,7 +146,7 @@
 "nameCompany": "El exito",
 "ruta": "Medicadiz",
 "latitud": "4.423647",
-  "status": "3",
+"status": "3",
 "longitud": "-75.179856"
 }
 ]
