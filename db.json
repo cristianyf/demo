@@ -35,7 +35,7 @@
 "nameCompany": "Transport",  
 "ruta": "cra 20 n 80",
 "latitud": "4.419231",
-  "status": "0",
+  "status": "2",
 "longitud": "-75.175010"
 },
 {
@@ -95,6 +95,34 @@
 "longitud": "-75.1775613"
 },
 {
+"activityEconomic": "Transporte",
+"email": "transporte@gmail.com",
+"identification": "2534262546",
+"typeIdentification": "CC",
+"razonSocial": "Movilizar",
+"phone": "3209846578",
+"nameCampus": "La granja",
+"nameCompany": "Transport", 
+"ruta": "Tomaticos",
+"latitud": "4.4140754",
+  "status": "3",
+"longitud": "-75.1775613"
+},
+  {
+"activityEconomic": "Transporte",
+"email": "transporte@gmail.com",
+"identification": "2534262546",
+"typeIdentification": "CC",
+"razonSocial": "Movilizar",
+"phone": "3209846578",
+"nameCampus": "La granja",
+"nameCompany": "Transport", 
+"ruta": "Tomaticos",
+"latitud": "4.4140754",
+  "status": "3",
+"longitud": "-75.1775613"
+},
+  {
 "activityEconomic": "Transporte",
 "email": "transporte@gmail.com",
 "identification": "2534262546",
